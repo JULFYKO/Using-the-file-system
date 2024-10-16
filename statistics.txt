@@ -1,0 +1,5 @@
+Characters: 158
+Lines: 4
+Vowels: 57
+Consonants: 69
+Digits: 5
